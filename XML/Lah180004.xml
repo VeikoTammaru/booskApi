@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<data  register="SHVc" sequence="107831" systemversion="8.5.40.383">
+    <SHVc>
+        <SerNr>180004</SerNr>
+        <ShipDate>2018-12-05</ShipDate>
+        <Addr0>ABC Elektroonika Kauplused AS</Addr0>
+        <TotQty>28</TotQty>
+        <TotWeight>14</TotWeight>
+        <rows>
+            <row rownumber="0">
+                <ArtCode>006</ArtCode>
+                <Ordered>30</Ordered>
+                <InStock>7</InStock>
+                <Spec>Kõrvaklapid &quot;Jones&quot;</Spec>
+            </row>
+            <row rownumber="1">
+                <ArtCode>004</ArtCode>
+                <Ordered>30</Ordered>
+                <InStock>21</InStock>
+                <Spec>Mikrofon &quot;Singer&quot;</Spec>
+            </row>
+        </rows>
+    </SHVc>
+</data>
